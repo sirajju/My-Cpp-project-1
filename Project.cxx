@@ -1,10 +1,11 @@
 #include <iostream>
-usingnamespace std;
+using namespace std;
 int main()
 {
-cin>>a>>b>>c;
+int a,b,c;
 cout<<"Program Created By Sirajju";
-cout<<"Program to find the gratest number of three numbers"
+cout<<"\n Program to find the gratest number of three numbers"
+cin>>a>>b>>c;
 cout<<"\n Enter the first number";
 cin>>a;
 cout<<"\n Enter the second number";
@@ -19,4 +20,3 @@ else
 cout<<c<<"is large";
 return 0;
 }
-
