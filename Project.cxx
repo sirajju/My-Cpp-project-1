@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+usingnamespace std;
 int main()
 {
 cin>>a>>b>>c;
