@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
 int a,b,c;
-cout<<"Program Created By Sirajju";
+cout<<"\t Program Created By Sirajju";
 cout<<"\n Program to find the gratest number of three numbers"
 cin>>a>>b>>c;
 cout<<"\n Enter the first number";
